@@ -4,6 +4,7 @@
 - 💻 フロントエンド中心のフルスタックエンジニア
 - 🌱 現在、テックリードとして技術選定や若手育成に注力中
 - 🌐 ウェブサイト: [https://engineer-tips.com](https://engineer-tips.com)
+- 便利サイト: [https://print-calendar.net](https://print-calendar.net)
 - 🐦 X(Twitter): [@yamanaka_swe](https://x.com/yamanaka_swe)
 
 ## 🛠️ 技術スタック
